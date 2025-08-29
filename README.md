@@ -1,3 +1,9 @@
+Integrantes:
+Manriquez
+Cordova
+Gonzalez
+Zailema
+
 # MiniMarket
 El presente proyecto está enfocado en la gestión de un MiniMarket que comercializa una variedad amplia de productos, incluyendo lácteos, embutidos, snacks, bebidas, artículos de aseo e higiene, y frutas. La diversidad de productos y la cantidad de transacciones diarias generan la necesidad de contar con un sistema que permita registrar y controlar eficientemente las ventas, compras, inventarios y el personal involucrado.
 Actualmente, la gestión manual o poco estructurada de la información provoca dificultades para mantener actualizados los datos de productos, precios y stock, lo que puede llevar a desabastecimiento, errores en los precios, pérdidas económicas y una atención al cliente deficiente.
